@@ -1,0 +1,6 @@
+{
+  "name": "AmpereFlow",
+  "description": "High-performance real-time battery and charging monitor applet with Always On Display customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
